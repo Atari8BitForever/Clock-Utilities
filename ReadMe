@@ -1,0 +1,5 @@
+Clock Utilities – A new application for the Atari 8-bit featuring a full-screen digital clock, grandfather clock with chimes, stopwatch and countdown timer, supporting automatic set and sync with Internet time via FujiNet!   
+
+After three and a half years of development, I am so proud to share this application with the Atari community.  The software will on run on any Atari 8bit with 48k memory or higher, with or without a FujiNet adapter connected.  Upon loading, the clocks will start running automatically from 12:00; if you have a FujiNet connected, the clocks will pull the time from the FujiNet and set themselves and will remain synced with the current time from the Internet until you manually reset the clock yourself.  The stopwatch feature and countdown timer feature can run simultaneously with the regular clocks – they will continue to count accurately even when they are offscreen.  Pressing the H key will bring up a help screen at any time with all of the relevant keystrokes and corresponding actions listed.  
+
+Questions / thoughts / comments / suggestions are most welcome – geosword@mac.com.
